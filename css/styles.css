@@ -1,0 +1,40 @@
+body {
+	background: url(../images/nenhong.jpg) no-repeat;
+	background-position:center;
+	font-size: 15pt;
+}
+h1 {
+	text-align:center;
+	color: blue;
+}
+#DauTrang {
+	width: 960px;
+	height: 192px;
+	background: url(../images/Top2.jpg) no-repeat;
+	line-height: 150%;
+}
+#NoiDung {
+	width: 958px;
+	padding: 0;
+	margin: 0 auto;
+}
+#BenPhai {
+	width: 220px;
+	float: right;
+}
+#BenPhai a:Link {
+	text-decoration: none;
+}
+
+#BenPhai a:hover {
+	text-decoration: underline;
+	color: yellow;
+}
+#BenTrai {
+	
+	width: 730px;
+	float: left;
+}
+#GiuaTrang {
+	width: 960px;
+}
